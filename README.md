@@ -14,6 +14,7 @@ I am building this as part of my journey to strengthen problem-solving skills an
 - Fibonacci Series
 - Tower of Hanoi
 - Power
+- Sorted Array Checking
 
 ### 🔍 Searching
 - Linear Search
